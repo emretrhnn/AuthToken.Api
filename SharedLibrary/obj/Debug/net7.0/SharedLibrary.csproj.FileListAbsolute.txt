@@ -1,0 +1,12 @@
+/Users/emre/Projects/AuthServer/SharedLibrary/bin/Debug/net7.0/SharedLibrary.deps.json
+/Users/emre/Projects/AuthServer/SharedLibrary/bin/Debug/net7.0/SharedLibrary.dll
+/Users/emre/Projects/AuthServer/SharedLibrary/bin/Debug/net7.0/SharedLibrary.pdb
+/Users/emre/Projects/AuthServer/SharedLibrary/obj/Debug/net7.0/SharedLibrary.csproj.AssemblyReference.cache
+/Users/emre/Projects/AuthServer/SharedLibrary/obj/Debug/net7.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emre/Projects/AuthServer/SharedLibrary/obj/Debug/net7.0/SharedLibrary.AssemblyInfoInputs.cache
+/Users/emre/Projects/AuthServer/SharedLibrary/obj/Debug/net7.0/SharedLibrary.AssemblyInfo.cs
+/Users/emre/Projects/AuthServer/SharedLibrary/obj/Debug/net7.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/emre/Projects/AuthServer/SharedLibrary/obj/Debug/net7.0/SharedLibrary.dll
+/Users/emre/Projects/AuthServer/SharedLibrary/obj/Debug/net7.0/refint/SharedLibrary.dll
+/Users/emre/Projects/AuthServer/SharedLibrary/obj/Debug/net7.0/SharedLibrary.pdb
+/Users/emre/Projects/AuthServer/SharedLibrary/obj/Debug/net7.0/ref/SharedLibrary.dll

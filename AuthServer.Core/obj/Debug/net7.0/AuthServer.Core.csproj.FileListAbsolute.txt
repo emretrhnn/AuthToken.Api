@@ -1,0 +1,15 @@
+/Users/emre/Projects/AuthServer/AuthServer.Core/bin/Debug/net7.0/AuthServer.Core.deps.json
+/Users/emre/Projects/AuthServer/AuthServer.Core/bin/Debug/net7.0/AuthServer.Core.dll
+/Users/emre/Projects/AuthServer/AuthServer.Core/bin/Debug/net7.0/AuthServer.Core.pdb
+/Users/emre/Projects/AuthServer/AuthServer.Core/bin/Debug/net7.0/SharedLibrary.dll
+/Users/emre/Projects/AuthServer/AuthServer.Core/bin/Debug/net7.0/SharedLibrary.pdb
+/Users/emre/Projects/AuthServer/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.csproj.AssemblyReference.cache
+/Users/emre/Projects/AuthServer/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emre/Projects/AuthServer/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.AssemblyInfoInputs.cache
+/Users/emre/Projects/AuthServer/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.AssemblyInfo.cs
+/Users/emre/Projects/AuthServer/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.csproj.CoreCompileInputs.cache
+/Users/emre/Projects/AuthServer/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.csproj.CopyComplete
+/Users/emre/Projects/AuthServer/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.dll
+/Users/emre/Projects/AuthServer/AuthServer.Core/obj/Debug/net7.0/refint/AuthServer.Core.dll
+/Users/emre/Projects/AuthServer/AuthServer.Core/obj/Debug/net7.0/AuthServer.Core.pdb
+/Users/emre/Projects/AuthServer/AuthServer.Core/obj/Debug/net7.0/ref/AuthServer.Core.dll

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer.API", "AuthServer.API\AuthServer.API.csproj", "{13C8C8B6-7B1B-40AE-BCB3-6FEA16495FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer.Core", "AuthServer.Core\AuthServer.Core.csproj", "{B7E2C07D-AA62-4643-AF93-C43C82E7CBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer.Data", "AuthServer.Data\AuthServer.Data.csproj", "{3EBF064A-D73A-41F0-B6A6-D68840E588C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer.Service", "AuthServer.Service\AuthServer.Service.csproj", "{372EFAD4-25C2-44FA-B9AB-D20A07A7121D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniApp1.API", "MiniApp1.API\MiniApp1.API.csproj", "{721D5749-6374-48E4-AC5B-A4A9D9290D68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniApp2.API", "MiniApp2.API\MiniApp2.API.csproj", "{948BB6D3-98AD-48BF-8729-64AE6F1BB2A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{8A35DACB-8F2B-4E07-929E-5B2229CE8F70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13C8C8B6-7B1B-40AE-BCB3-6FEA16495FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C8C8B6-7B1B-40AE-BCB3-6FEA16495FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C8C8B6-7B1B-40AE-BCB3-6FEA16495FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C8C8B6-7B1B-40AE-BCB3-6FEA16495FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E2C07D-AA62-4643-AF93-C43C82E7CBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E2C07D-AA62-4643-AF93-C43C82E7CBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E2C07D-AA62-4643-AF93-C43C82E7CBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E2C07D-AA62-4643-AF93-C43C82E7CBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBF064A-D73A-41F0-B6A6-D68840E588C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBF064A-D73A-41F0-B6A6-D68840E588C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBF064A-D73A-41F0-B6A6-D68840E588C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBF064A-D73A-41F0-B6A6-D68840E588C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372EFAD4-25C2-44FA-B9AB-D20A07A7121D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372EFAD4-25C2-44FA-B9AB-D20A07A7121D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372EFAD4-25C2-44FA-B9AB-D20A07A7121D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372EFAD4-25C2-44FA-B9AB-D20A07A7121D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721D5749-6374-48E4-AC5B-A4A9D9290D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721D5749-6374-48E4-AC5B-A4A9D9290D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721D5749-6374-48E4-AC5B-A4A9D9290D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721D5749-6374-48E4-AC5B-A4A9D9290D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948BB6D3-98AD-48BF-8729-64AE6F1BB2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948BB6D3-98AD-48BF-8729-64AE6F1BB2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948BB6D3-98AD-48BF-8729-64AE6F1BB2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948BB6D3-98AD-48BF-8729-64AE6F1BB2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A35DACB-8F2B-4E07-929E-5B2229CE8F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A35DACB-8F2B-4E07-929E-5B2229CE8F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A35DACB-8F2B-4E07-929E-5B2229CE8F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A35DACB-8F2B-4E07-929E-5B2229CE8F70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32A431EF-CDF6-4C25-ADFF-014445EB7A27}
+	EndGlobalSection
+EndGlobal
